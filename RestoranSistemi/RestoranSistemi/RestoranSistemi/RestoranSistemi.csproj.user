@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Calisan-AktifSiparisler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Calisan-SiparisOzeti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="calisanEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bilgi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="yonetici-calisanListeleUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Yonetici-CalisanYonetimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="yonetici-calisanYonetimiUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Yonetici-MenuYonetimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Yonetici-RaporSistemi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="yoneticiEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,268 @@
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.exe
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.deps.json
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.runtimeconfig.json
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.pdb
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.csproj.AssemblyReference.cache
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Form1.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Form2.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Form3.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Menu.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.MenuUserControl.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.csproj.GenerateResource.cache
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.AssemblyInfoInputs.cache
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.AssemblyInfo.cs
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\Restoran.158FBB38.Up2Date
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\refint\RestoranSistemi.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.pdb
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.genruntimeconfig.cache
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\ref\RestoranSistemi.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.csproj.AssemblyReference.cache
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Form1.resources
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Form2.resources
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Form3.resources
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Menu.resources
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.MenuUserControl.resources
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Properties.Resources.resources
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.yonetici_calisanListeleUserControl.resources
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Yonetici_CalisanYonetimi.resources
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.yonetici_calisanYonetimiUserControl.resources
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Yonetici_MenuYonetimi.resources
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.yoneticiEkrani.resources
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.csproj.GenerateResource.cache
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.AssemblyInfoInputs.cache
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.AssemblyInfo.cs
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.csproj.CoreCompileInputs.cache
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.exe
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.deps.json
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.runtimeconfig.json
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.pdb
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\Restoran.158FBB38.Up2Date
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\refint\RestoranSistemi.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.pdb
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.genruntimeconfig.cache
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\ref\RestoranSistemi.dll
+C:\Users\elifb\Downloads\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Yonetici_RaporSistemi.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.csproj.AssemblyReference.cache
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\refint\RestoranSistemi.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.pdb
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.exe
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.deps.json
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.runtimeconfig.json
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.pdb
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Form1.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Form2.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Form3.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Menu.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.MenuUserControl.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Properties.Resources.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.yonetici_calisanListeleUserControl.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Yonetici_CalisanYonetimi.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.yonetici_calisanYonetimiUserControl.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Yonetici_MenuYonetimi.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Yonetici_RaporSistemi.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.yoneticiEkrani.resources
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.csproj.GenerateResource.cache
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.AssemblyInfoInputs.cache
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.AssemblyInfo.cs
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\Restoran.158FBB38.Up2Date
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.genruntimeconfig.cache
+C:\Users\Eda Ergin\source\repos\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\ref\RestoranSistemi.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.csproj.AssemblyReference.cache
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\refint\RestoranSistemi.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.pdb
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.exe
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.deps.json
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.runtimeconfig.json
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\RestoranSistemi.pdb
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Form1.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Form2.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Form3.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Menu.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.MenuUserControl.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Properties.Resources.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.yonetici_calisanListeleUserControl.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Yonetici_CalisanYonetimi.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.yonetici_calisanYonetimiUserControl.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Yonetici_MenuYonetimi.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Yonetici_RaporSistemi.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.yoneticiEkrani.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.csproj.GenerateResource.cache
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.AssemblyInfoInputs.cache
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.AssemblyInfo.cs
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.csproj.CoreCompileInputs.cache
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\Restoran.158FBB38.Up2Date
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.genruntimeconfig.cache
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\ref\RestoranSistemi.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Calisan_AktifSiparisler.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.calisanEkrani.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Calisan_SiparisOzeti.resources
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\elifb\Desktop\RestoranSistemi\RestoranSistemi\RestoranSistemi\obj\Debug\net8.0-windows\RestoranSistemi.Form4.resources
